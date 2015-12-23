@@ -1,12 +1,12 @@
 # marked
 
-`marked 是一个 JavaScript 编写的全功能 Markdown 解析和编译器。
+marked 是一个 JavaScript 编写的全功能 Markdown 解析和编译器。
 
 marked 的目的是快速的编译超大块的Markdown文本而不必担心结果会出乎意料或者花费很长时间。
 
 marked 最初是为 Node.JS编写，现在已完全兼容客户端浏览器。
 
-新版本号称速度比C语言写的Markdown转换工具Discount 还要快。`
+新版本号称速度比C语言写的Markdown转换工具Discount 还要快。
 
 > A full-featured markdown parser and compiler, written in JavaScript. Built
 > for speed.
